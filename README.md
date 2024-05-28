@@ -8,7 +8,9 @@
 
 
 - 📫 How to reach me **pranaymacharla18@gmail.com**
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pranay-4696&&style=flat-square" align="center" />
+</div>  
   
 ## Connect with me  
 <div align="center">
